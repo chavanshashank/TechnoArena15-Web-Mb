@@ -1997,8 +1997,8 @@ legend + .control-group {
 table {
   max-width: 100%;
   background-color: transparent;
-  border-collapse: collapse;
-  border-spacing: 0;
+  /*border-collapse: collapse;
+  border-spacing: 0;*/
 }
 
 .table {
@@ -6165,3 +6165,4 @@ a.badge:focus {
 .affix {
   position: fixed;
 }
+
